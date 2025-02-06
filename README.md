@@ -1,0 +1,2 @@
+# SiglusFgimageBatchMerge
+批量合成siglus立绘工具
