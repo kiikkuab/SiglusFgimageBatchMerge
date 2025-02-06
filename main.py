@@ -76,9 +76,9 @@ SummerPocketsCharactersDict = {
     }
 """
 
-partImageFolder = ".\\unpackgbo\\"
-g00Folder = ".\\org\\"
-outFolder = ".\\out\\"
+partImageFolder = ".\\garbro_unpack\\"
+g00Folder = ".\\g00\\"
+outFolder = ".\\output\\"
 
 def search(pattern,folder):
     arr = os.listdir(folder)
